@@ -2,7 +2,7 @@
 
 pkgname='minimal-x'
 pkgver=1.1
-pkgrel=2
+pkgrel=1
 pkgdesc='Install X and Lightdm'
 packager='Jan Boelsche'
 arch=('any')
