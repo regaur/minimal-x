@@ -3,7 +3,7 @@
 pkgname='minimal-x'
 pkgver=1.1
 pkgrel=1
-pkgdesc='Install X and Lightdm'
+pkgdesc='Installs X and Lightdm'
 packager='Jan Boelsche'
 arch=('any')
 license=('GPL')
